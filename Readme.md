@@ -20,11 +20,11 @@ Delta Engine is a lightweight, high-performance order-matching engine written in
 ## 🚀 Running the Engine
 
 1. Clone the repository:
-```sh
 git clone https://github.com/ParthAggarwal16/Delta-Engine
 cd Delta-Engine
 go run main.go
 
+## Example Trade
 Trade executed:
 BUY  -> O-12345
 SELL -> O-67890
