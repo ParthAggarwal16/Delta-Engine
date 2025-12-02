@@ -16,8 +16,20 @@ Delta Engine is a lightweight, high-performance order-matching engine written in
 - Clean modular architecture
 
 ---
+## Future Improvements
+
+- REST API (Gin/Fiber)
+- WebSocket live orderbook feed
+- Persistent storage (PostgreSQL/SQLite)
+- Market orders
+- Fee calculation
+- Historical trades
+- Metrics dashboard
+- Docker + Render deployment
+- CLI trading interface
 
 ## 🚀 Running the Engine
+```sh
 
 1. Clone the repository:
 git clone https://github.com/ParthAggarwal16/Delta-Engine
@@ -34,15 +46,4 @@ Quantity:  2
 Best Bid: 99.0 (qty 3)
 Best Ask: 105.0 (qty 5)
 
-## Future Improvements
-
-- REST API (Gin/Fiber)
-- WebSocket live orderbook feed
-- Persistent storage (PostgreSQL/SQLite)
-- Market orders
-- Fee calculation
-- Historical trades
-- Metrics dashboard
-- Docker + Render deployment
-- CLI trading interface
 
