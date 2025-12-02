@@ -1,0 +1,20 @@
+# Go build files
+/bin/
+/pkg/
+/*.exe
+*.log
+*.test
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Go workspace
+~/go/pkg/mod
+
+# Environment variables
+.env
+
+# Docker
+docker-compose.override.yml
