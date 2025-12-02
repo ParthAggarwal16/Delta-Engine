@@ -36,12 +36,13 @@ Best Ask: 105.0 (qty 5)
 
 ## Future Improvements
 
-•	REST API (Gin/Fiber)
-•	WebSocket live orderbook feed	
-•	Persistent storage (PostgreSQL/SQLite)
-•	Market orders
-•	Fee calculation
-•	Historical trades
-•	Metrics dashboard
-•	Docker + Render deployment
-•	CLI trading interface
+- REST API (Gin/Fiber)
+- WebSocket live orderbook feed
+- Persistent storage (PostgreSQL/SQLite)
+- Market orders
+- Fee calculation
+- Historical trades
+- Metrics dashboard
+- Docker + Render deployment
+- CLI trading interface
+
